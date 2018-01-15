@@ -1,0 +1,23 @@
+body{
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: .5em;
+  font-family: 'Roboto', sans-serif;
+  color: rgba(200,200,200,0.7);
+  background: linear-gradient(to right, #00aa11, #0011ff);
+}
+
+input{
+  cursor: pointer;
+}
+
+h2{
+  font-family: Times, serif;
+  color: black;
+}
+
+h3{
+  color: white;
+  font-size: 0.5em;
+  letter-spacing: .1em;
+}
